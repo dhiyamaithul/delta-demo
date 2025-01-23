@@ -1,3 +1,3 @@
 # delta-demo
 THis is a demo for Git.
-Welcum to my profile
+Welcum to my profile.
